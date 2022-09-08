@@ -1,3 +1,3 @@
 # Security
 
-* [GPG Encryption](./gpg-encryption.md)
+* [GPG Encryption](gpg-encryption.md)
