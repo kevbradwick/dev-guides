@@ -1,3 +1,4 @@
 # Table of contents
 
-* [SSH authentication using YubiKey on macOS](README.md)
+* [Security](./security/README.md)
+    * [GPG Encryption](README.md)

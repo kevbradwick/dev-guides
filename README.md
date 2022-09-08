@@ -1,2 +1,1 @@
-# SSH authentication using YubiKey on macOS
-
+# Development guides
